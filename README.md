@@ -12,8 +12,9 @@ I'm currently working as an Automotive Validation Engineer at TATA CONSULTANCY S
 ![](https://streak-stats.demolab.com/?user=ddakamuri33&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ddakamuri33&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-Nothing is impossible untill we can starts
+### ✍️ Self-Motive
+**Nothing is impossible once you decide to start.** Every expert was once a beginner, and every success story began with a single step. Believe in yourself, take action, and let your determination make the impossible possible.💻💪☮️
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ddakamuri33&limit=5&theme=dark&combine_all_yearly_contributions=true)
